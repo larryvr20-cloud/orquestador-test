@@ -1,0 +1,6 @@
+{
+  "name": "orquestador-test",
+  "displayName": "Orquestador Test",
+  "version": "0.1.0",
+  "description": "Plugin de prueba para validar la orquestacion entre un agente supervisor y un agente especialista en redaccion."
+}
